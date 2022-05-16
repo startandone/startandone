@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @startandone
+- 👋 Hi, I’m Özge
 - 👀 I’m interested in Flutter
 - 🌱 I’m currently learning MobileApp
 - 💞️ I’m looking to collaborate on projects
